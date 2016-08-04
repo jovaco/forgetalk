@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="forgetalk:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="forgetalk.war">
+      <element id="artifact" artifact-name="forgetalk:war exploded" />
+    </root>
+  </artifact>
+</component>
